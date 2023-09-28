@@ -12,12 +12,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammmedrafique&show_icons=true&locale=en" alt="mohammmedrafique" /></p>
 
 ### 🔝 Top Contributed Repo
-<p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Mohammmedrafique&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="mohammmedrafique" /></p><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Mohammmedrafique&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="mohammmedrafique" rel="noopener" /></p><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;" rel="noopener" />
 
 

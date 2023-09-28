@@ -14,7 +14,7 @@
 ### 🔝 Top Contributed Repo
 <p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Mohammmedrafique&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="mohammmedrafique"  /></p><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<p><a href="https://github-contributor-stats.vercel.app/api?username=Mohammmedrafique&limit=5&theme=dark&combine_all_yearly_contributions=true" target="_self"><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Mohammmedrafique&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="mohammmedrafique" /></a></p><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<p><a href="https://github-contributor-stats.vercel.app/api?username=Mohammmedrafique&limit=5&theme=dark&combine_all_yearly_contributions=true" target="_self"><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Mohammmedrafique&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="mohammmedrafique" rel="noopener" /></a></p><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 ### ✍ Random Dev Quote

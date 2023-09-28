@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <h1 align="center">Hi 👋, I'm Mohammed Rafique</h1>
 <h3 align="center">Passionate aspiring Full Stack Developer with a strong foundation in programming and web development, specializing in the MERN stack.</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBYTXCpKgB9bMvP-0No703HTqqLUp9a-GpYRKpctMSfUG5Bo-exH7E7z8LxdZfDeqT1b8&usqp=CAU"/>

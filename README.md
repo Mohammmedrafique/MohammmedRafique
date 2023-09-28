@@ -12,7 +12,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammmedrafique&show_icons=true&locale=en" alt="mohammmedrafique" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammmedrafique&" alt="mohammmedrafique" /></p>
 
-
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

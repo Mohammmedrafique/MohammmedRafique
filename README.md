@@ -6,7 +6,8 @@
 
 🔭 I’m currently looking for Job.<br>🌱 I’m currently learning Full Stack Development Course Masai School.<br>
 - 📫 How to reach me **kota.mohdrafiq@gmail.com**
-- Portfolio  **http://MohammmedRafique.github.io**
+
+  [![Portfolia]](http://MohammmedRafique.github.io) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-rafique-283501113) 

@@ -3,11 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBYTXCpKgB9bMvP-0No703HTqqLUp9a-GpYRKpctMSfUG5Bo-exH7E7z8LxdZfDeqT1b8&usqp=CAU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammmedrafique&label=Profile%20views&color=0e75b6&style=flat" alt="mohammmedrafique" /> </p>
 
-- 📫 How to reach me **kota.mohdrafiq@gmail.com**
-
 # 💫 About Me:
 🔭 I’m currently looking for Job.<br>🌱 I’m currently learning Full Stack Development Course Masai School.<br>
-
+- 📫 How to reach me **kota.mohdrafiq@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-rafique-283501113) 

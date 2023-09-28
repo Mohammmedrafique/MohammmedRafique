@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammmedrafique&label=Profile%20views&color=0e75b6&style=flat" alt="mohammmedrafique" /> </p>
 
 🔭 I’m currently looking for Job.<br>🌱 I’m currently learning Full Stack Development Course Masai School.<br>
-- 📫 How to reach me **kota.mohdrafiq@gmail.com**
+- 📫 How to reach me **kota.mohdrafiq@gmail.com** <br/>
+[Portfolio](http://MohammmedRafique.github.io)
 
-  [![Portfolia]](http://MohammmedRafique.github.io) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-rafique-283501113) 
